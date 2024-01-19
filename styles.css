@@ -1,0 +1,36 @@
+.navbar-custom {
+    background-color: #ECECEC;
+}
+
+.section-custom {
+    background-color: #ECECEC;
+}
+
+.about-me-custom {
+    color: #ECECEC;
+    background-color: #1c1c1c;
+}
+
+.techstacks-custom {
+    font-size: 5vh;
+}
+
+.footer-custom {
+    color: #ECECEC;
+    background-color: #1c1c1c;
+}
+
+.footer-custom img {
+    width: 5vh;
+}
+
+.footer-custom a {
+    text-decoration: none;
+}
+
+.carousel-custom img {
+    width: 10vh;
+}
+.card-custom img {
+    width: 20vh;
+}
